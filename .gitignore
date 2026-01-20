@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor / OS
+.vscode/
+
+# Test artifacts / logs
+logs/
+allure-results/
+*.log
+/tmp/bridge_queue.jsonl
+bridge_queue.jsonl
